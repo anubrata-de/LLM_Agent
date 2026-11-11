@@ -1,3 +1,13 @@
+<!-- portfolio
+title: LLM Agent Proof-of-Concept
+tagline: Browser-Based Multi-Tool Reasoning
+category: LLM agents and apps
+summary: A minimal browser-based agent that reasons in a loop and calls tools as the model decides: Google search snippets, an AI Pipe proxy and sandboxed JavaScript, streaming its output to the page.
+tags: JavaScript, Bootstrap, LLM APIs, Tool calling
+slug: browser-llm-agent
+featured: yes
+-->
+
 # Modern Chat Interface
 
 A sleek and responsive chat interface with a modern dark theme design, perfect for AI-powered conversations.
